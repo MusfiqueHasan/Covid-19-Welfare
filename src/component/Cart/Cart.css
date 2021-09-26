@@ -1,8 +1,18 @@
+/* Donations CSS Cart */
+.cart-container{
+    position: sticky;
+    top: 50px;
+    left: 0px;
+}
 .cart-container .cart-title{
-text-transform: uppercase;
-font-weight: bold;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 .cart-container h1{
     color: crimson;
 
+}
+.cart-info{
+    font-weight: bold;
+    color: black;
 }
