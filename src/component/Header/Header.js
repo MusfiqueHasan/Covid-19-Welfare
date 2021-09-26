@@ -1,10 +1,20 @@
+// Header Component
+
 import React from 'react';
 import './Header.css'
 const Header = () => {
     return (
-        <div>
-            <h2>Covid-19 Welfare</h2>
-            <h2>Target Donations: $2.7 Billion</h2>
+        <div >
+            <div className="header">
+                <div>
+                   
+                    <h2 className="header-title">Covid-19 <br /> Welfare</h2>
+                </div>
+                <div className="header-details">
+                    <p>Your donation will help fund our work to supporting policies and projects that support the Latino community.</p>
+                    <h2>Target of Donations: $2.7 Billion</h2>
+                </div>
+            </div>
             <hr />
         </div>
     );

@@ -1,3 +1,5 @@
+// Main Component
+
 import React, { useEffect, useState } from 'react';
 import './Main.css'
 import Donors from './../Donors/Donors';

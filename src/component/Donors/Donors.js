@@ -16,11 +16,11 @@ const Donors = (props) => {
                     <img width="320px" height="180px" src={img} alt="" />
                 </div>
                 <div className="donors-social-media">
-                    <i class="fab fa-facebook"></i>
-                    <i class="fab fa-twitter"></i>
-                    <i class="fab fa-linkedin-in"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-youtube"></i>
+                    <i className="fab fa-facebook"></i>
+                    <i className="fab fa-twitter"></i>
+                    <i className="fab fa-linkedin-in"></i>
+                    <i className="fab fa-instagram"></i>
+                    <i className="fab fa-youtube"></i>
                 </div>
                 <div className="donors-data">
                     <p> <span className="donors-info">Name:</span>  {name}</p>

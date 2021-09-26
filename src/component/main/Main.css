@@ -7,6 +7,6 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     border-right: 4px solid lightgrey;
-    margin: 50px;
+    margin: 20px 50px;
    
 }

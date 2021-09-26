@@ -1,4 +1,5 @@
 import React from 'react';
+import DonorList from '../Donors/DonorList';
 import './Cart.css'
 const Cart = (props) => {
     const { cart } = props;
@@ -12,7 +13,13 @@ const Cart = (props) => {
             <div>
                 <p > <span className="cart-info">Donors:</span>  {cart.length}</p>
                 <p > <span className="cart-info">Total Donations:</span>  ${totalDonations} </p>
-                <p > <span className="cart-info">Donor List:</span>  { }</p>
+                <p className="donor-list"> <span >Donor List</span><br />
+                </p>
+
+                {
+                    cart.map(listInfo => <DonorList listInfo={listInfo} />)
+                }
+
             </div>
         </div>
     );
