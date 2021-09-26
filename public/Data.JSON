@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "name": "Jeff Bezos",
+        "companies": "Amazon, AWS Elemental, Blue Origin, IMDb, Alexa, ​Fabric.com etc",
+        "born": "12 January 1964, Albuquerque, New Mexico, United States",
+        "img": "https://images4.alphacoders.com/112/thumb-1920-1129029.jpg",
+        "networth": "$177 billion",
+        "donate": "$950000"
+    },
+    {
+        "id": 2,
+        "name": "Elon Musk",
+        "companies": "Tesla, SpaceX, The Boring Company, Neuralink, SolarCity, OpenAI",
+        "born": "28 June 1971, Pretoria, South Africa",
+        "img": "https://wallpaperhook.com/wp-content/uploads/2021/05/Elon-Musk-Wallpaper-HD-26-From-WallpaperHook.com-For-Free.jpg",
+        "networth": "$151 Billion",
+        "donate": "$870000"
+    },
+    {
+        "id": 3,
+        "name": "Bernard Arnault",
+        "companies": "LVMH, Christian Dior SE",
+        "born": "5 March 1949, Roubaix, France",
+        "img": "https://wallpapercave.com/wp/wp4620507.jpg",
+        "networth": "$150 Billion",
+        "donate": "$810000"
+    },
+    {
+        "id": 4,
+        "name": "Bill Gates",
+        "companies": "Microsoft, Bill & Melinda Gates Foundation, TerraPower etc",
+        "born": "28 October 1955, Seattle, Washington, United States",
+        "img": "https://wallpaperaccess.com/full/1465146.jpg",
+        "networth": "$124 Billion",
+        "donate": "$770000"
+    },
+    {
+        "id": 5,
+        "name": "Mark Zuckerburg",
+        "companies": "Facebook & the Chan Zuckerberg Initiative",
+        "born": "14 May 1984, White Plains, New York, United States",
+        "img": "https://wallpaperaccess.com/full/2247898.jpg",
+        "networth": "$97 Billion",
+        "donate": "$750000"
+    },
+    {
+        "id": 6,
+        "name": "Warren Buffet",
+        "companies": "Berkshire Hathaway",
+        "born": "30 August 1930, Omaha, Nebraska, United States",
+        "img": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_18/3334411/200502-warren-buffett-al-1056.jpg",
+        "networth": "$96 Billion",
+        "donate": "$790000"
+    },
+    {
+        "id": 7,
+        "name": "Larry Ellison",
+        "companies": " Oracle Corporation",
+        "born": "17 August 1944, New York City, United States",
+        "img": "https://wallpapercave.com/wp/wp4385964.jpg",
+        "networth": "$93 Billion",
+        "donate": "$760000"
+    },
+    {
+        "id": 8,
+        "name": "Larry Page",
+        "companies": "Google, Alphabet Inc, & PageRank",
+        "born": "26 March 1973, Lansing, Michigan, United States",
+        "img": "https://i.pinimg.com/474x/b6/21/6c/b6216c80976cb7671925f16ca2a9c679.jpg",
+        "networth": "$91.5 Billion",
+        "donate": "$680000"
+    },
+    {
+        "id": 9,
+        "name": "Sergey Brin",
+        "companies": "Google, X, Alphabet Inc, & PageRank",
+        "born": "21 August 1973, Moscow, Russia",
+        "img": "https://wallpaperaccess.com/full/3537359.jpg",
+        "networth": "$89 Billion",
+        "donate": "$620000"
+    },
+    {
+        "id": 10,
+        "name": "Mukesh Ambani",
+        "companies": "Reliance Industries",
+        "born": "19 April 1957, Aden, Yemen",
+        "img": "https://wallpaperaccess.com/full/4638240.jpg",
+        "networth": "$84.5 Billion",
+        "donate": "$699000"
+    },
+    {
+        "id": 11,
+        "name": "Amancio Ortega",
+        "companies": "Inditex Group, Zara, Pull & Bear, Massimo Dutti",
+        "born": "28 March 1936, Busdongo de Arbas, Spain",
+        "img": "https://wisetoast.com/wp-content/uploads/2015/10/Amancio-Ortega-Gaona-Net-Worth.jpg",
+        "networth": "$77 Billion",
+        "donate": "$746800"
+    },
+    {
+        "id": 12,
+        "name": "Zhong Shanshan",
+        "companies": "Nongfu Spring & Beijing Wantai Biological Pharmacy",
+        "born": "1 December 1954, Hangzhou, China",
+        "img": "https://cdn.cnn.com/cnnnext/dam/assets/200923234133-zhong-shanshan-file-restricted-large-169.jpg",
+        "networth": "$68.9 Billion",
+        "donate": "$588700"
+    },
+    {
+        "id": 13,
+        "name": "Steve Ballmer",
+        "companies": "Microsoft",
+        "born": "24 March 1956, Detroit, Michigan, United States",
+        "img": "https://c4.wallpaperflare.com/wallpaper/265/217/168/steve-ballmer-wallpaper-preview.jpg",
+        "networth": "$68.7 Billion",
+        "donate": "$552300"
+    },
+    {
+        "id": 14,
+        "name": "Ma Huateng",
+        "companies": "Tencent",
+        "born": "29 October 1971, Chaoyang, Shantou, Guangdong, China",
+        "img": "https://succeedfeed.com/wp-content/uploads/2018/12/10-pony-ma-huateng-quotes.jpg",
+        "networth": "$65.8 Billion",
+        "donate": "$523470"
+    },
+    {
+        "id": 15,
+        "name": "Carlos Slim Helu",
+        "companies": "Telmex, América Móvil, & Grupo Carso",
+        "born": "28 January 1940, Mexico City, Mexico",
+        "img": "https://www.famous-entrepreneurs.com/images/carlos-slim-helu.jpg",
+        "networth": "$62.8 Billion",
+        "donate": "$569920"
+    },
+    {
+        "id": 16,
+        "name": "Alice Walton",
+        "companies": "Walmart, Llama Company, Crystal Bridges Museum of American Art",
+        "born": "7 October 1949, Newport, Arkansas, United States",
+        "img": "https://wallpapercave.com/wp/wp6206527.jpg",
+        "networth": "$61.8 Billion",
+        "donate": "$734780"
+    },
+    {
+        "id": 17,
+        "name": "Jim Walton",
+        "companies": "Walmart, Arvest Bank, & Community Publishers",
+        "born": "7 June 1948, Newport, Arkansas, United States",
+        "img": "https://wallpapercave.com/wp/wp6206766.jpg",
+        "networth": "$60.2 Billion",
+        "donate": "$447600"
+    },
+    {
+        "id": 18,
+        "name": "Rob Walton",
+        "companies": "Walmart",
+        "born": "28 October 1944, Tulsa, Oklahoma, United States",
+        "img": "https://img.etimg.com/thumb/msid-64315564,width-640,resizemode-4,imgsize-171918/carting-off-the-cash.jpg",
+        "networth": "$59.5 Billion",
+        "donate": "$479865"
+    }
+    
+]
