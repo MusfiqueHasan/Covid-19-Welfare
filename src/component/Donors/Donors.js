@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Donors = (props) => {
-    const {name, companies, img, networth} =props.dataS
+    const {name, companies, img, networth} =props.data
     return (
         <div>
             <img width="200px"  src={img} alt="" />

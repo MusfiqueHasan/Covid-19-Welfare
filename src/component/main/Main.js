@@ -3,18 +3,23 @@ import './Main.css'
 import Donors from './../Donors/Donors';
 
 const Main = () => {
-    const [data, setData] = useState([])
+    const [info, setInfo] = useState([])
     useEffect(() => {
         fetch('./Data.JSON')
             .then(res => res.json())
-            .then(data => setData(data))
+            .then(data => setInfo(data))
     }, [])
     return (
-        <div>
-            {
-                data.map((dataS) =><Donors key={dataS.id} dataS={dataS}/>)
-            }
-            
+        <div className="main-container">
+            <div className="info-container">
+                {
+                    info.map((data) => <Donors key={data.id} data={data} />)
+                }
+            </div>
+            <div className="cart-container">
+                
+            </div>
+
         </div>
     );
 };
