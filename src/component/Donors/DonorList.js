@@ -1,3 +1,5 @@
+// Donor list component
+
 import React from 'react';
 
 const DonorList = (props) => {

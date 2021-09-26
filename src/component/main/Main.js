@@ -2,6 +2,8 @@
 
 import React, { useEffect, useState } from 'react';
 import './Main.css'
+// Main Component
+
 import Donors from './../Donors/Donors';
 import Cart from '../Cart/Cart';
 

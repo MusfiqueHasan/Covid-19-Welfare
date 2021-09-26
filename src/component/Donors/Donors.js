@@ -6,9 +6,8 @@ import { faDonate } from '@fortawesome/free-solid-svg-icons'
 import './Donors.css'
 const Donors = (props) => {
     const { name, companies, img, networth, born, donate } = props.data;
-
-
     const element = <FontAwesomeIcon icon={faDonate} />
+    
     return (
         <div className="donors-section">
             <div className="donors-container">
@@ -16,11 +15,11 @@ const Donors = (props) => {
                     <img width="320px" height="180px" src={img} alt="" />
                 </div>
                 <div className="donors-social-media">
-                    <i className="fab fa-facebook"></i>
-                    <i className="fab fa-twitter"></i>
-                    <i className="fab fa-linkedin-in"></i>
-                    <i className="fab fa-instagram"></i>
-                    <i className="fab fa-youtube"></i>
+                    <a href="/"><i className="fab fa-facebook"></i></a>
+                    <a href="/"><i className="fab fa-twitter"></i></a>
+                    <a href="/"><i className="fab fa-linkedin-in"></i></a>
+                    <a href="/"><i className="fab fa-instagram"></i></a>
+                    <a href="/"><i className="fab fa-youtube"></i></a>
                 </div>
                 <div className="donors-data">
                     <p> <span className="donors-info">Name:</span>  {name}</p>
