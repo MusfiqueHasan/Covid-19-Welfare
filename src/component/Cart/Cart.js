@@ -23,7 +23,7 @@ const Cart = (props) => {
                 <p > <span className="cart-info">Total Donations:</span>  ${totalDonations} </p>
                 <p className="donor-list"> <span >Donor List</span></p>
                 {
-                    cart.map(listInfo => <DonorList listInfo={listInfo} />)
+                    cart.map(listInfo => <DonorList key={listInfo.id} listInfo={listInfo} />)
                 }
 
             </div>
