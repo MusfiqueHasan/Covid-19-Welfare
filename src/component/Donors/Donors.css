@@ -1,14 +1,30 @@
 .donors-section{
-    /* display: flex; */
-    width: 300px;
+    width: 320px;
     background-color: #fff;
-    border: 1px solid #333;
-    margin-bottom: 20px;
-
+    margin-bottom: 40px;
+    box-shadow: 10px 10px 20px gray;
+    
 }
 .donors-info{
     font-weight: bolder;
 }
 .donors-data{
+    padding: 18px;
+    height: 235px;
+}
+.donors-btn{
     padding: 10px;
+    margin: 0px 20px;
+    margin-bottom: 15px;
+}
+.donors-btn .btn{
+    width: 260px;
+    border: none;
+    padding: 15px 0px;
+    background-color: crimson;
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-radius: 10px;
+    cursor: pointer;
 }
